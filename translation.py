@@ -41,9 +41,11 @@ The url uploader bot has not allowed to upload files from the urls which is send
 
 Please contact my Developer to be an authorised user ! 
 """
-    LAZY_DEVELOPER_TEXT = """▍👨🏻‍💻 Developer 👨🏻‍💻 ▍
-⭑┗┫ {} ┣┛⭑
+    LAZY_DEVELOPER_TEXT = """
+⭑Hello {} 🙂 ⭑
+I'm url uploader bot. you can send me url, I'll upload it on telegram.
+if you face any issues contact <a href='https://t.me/starkownerbot'>**👨🏻‍💻 Developer 👨🏻‍💻**</a> 
 
  - Tell me what should i do for you.
- - or Just send me any url baby
+ - or Just send me any url dude...
 """
